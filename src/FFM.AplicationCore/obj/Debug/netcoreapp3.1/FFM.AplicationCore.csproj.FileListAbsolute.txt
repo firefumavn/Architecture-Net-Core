@@ -1,0 +1,11 @@
+D:\Project\ASP\Architecture-Net-Core\src\FFM.AplicationCore\bin\Debug\netcoreapp3.1\FFM.AplicationCore.exe
+D:\Project\ASP\Architecture-Net-Core\src\FFM.AplicationCore\bin\Debug\netcoreapp3.1\FFM.AplicationCore.deps.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.AplicationCore\bin\Debug\netcoreapp3.1\FFM.AplicationCore.runtimeconfig.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.AplicationCore\bin\Debug\netcoreapp3.1\FFM.AplicationCore.runtimeconfig.dev.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.AplicationCore\bin\Debug\netcoreapp3.1\FFM.AplicationCore.dll
+D:\Project\ASP\Architecture-Net-Core\src\FFM.AplicationCore\bin\Debug\netcoreapp3.1\FFM.AplicationCore.pdb
+D:\Project\ASP\Architecture-Net-Core\src\FFM.AplicationCore\obj\Debug\netcoreapp3.1\FFM.AplicationCore.csprojAssemblyReference.cache
+D:\Project\ASP\Architecture-Net-Core\src\FFM.AplicationCore\obj\Debug\netcoreapp3.1\FFM.AplicationCore.AssemblyInfoInputs.cache
+D:\Project\ASP\Architecture-Net-Core\src\FFM.AplicationCore\obj\Debug\netcoreapp3.1\FFM.AplicationCore.AssemblyInfo.cs
+D:\Project\ASP\Architecture-Net-Core\src\FFM.AplicationCore\obj\Debug\netcoreapp3.1\FFM.AplicationCore.dll
+D:\Project\ASP\Architecture-Net-Core\src\FFM.AplicationCore\obj\Debug\netcoreapp3.1\FFM.AplicationCore.pdb

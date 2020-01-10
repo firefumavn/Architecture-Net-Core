@@ -1,0 +1,10 @@
+D:\Project\ASP\Architecture-Net-Core\src\FFM.DataAccess\bin\Debug\netcoreapp3.1\FFM.DataAccess.exe
+D:\Project\ASP\Architecture-Net-Core\src\FFM.DataAccess\bin\Debug\netcoreapp3.1\FFM.DataAccess.deps.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.DataAccess\bin\Debug\netcoreapp3.1\FFM.DataAccess.runtimeconfig.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.DataAccess\bin\Debug\netcoreapp3.1\FFM.DataAccess.runtimeconfig.dev.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.DataAccess\bin\Debug\netcoreapp3.1\FFM.DataAccess.dll
+D:\Project\ASP\Architecture-Net-Core\src\FFM.DataAccess\bin\Debug\netcoreapp3.1\FFM.DataAccess.pdb
+D:\Project\ASP\Architecture-Net-Core\src\FFM.DataAccess\obj\Debug\netcoreapp3.1\FFM.DataAccess.AssemblyInfoInputs.cache
+D:\Project\ASP\Architecture-Net-Core\src\FFM.DataAccess\obj\Debug\netcoreapp3.1\FFM.DataAccess.AssemblyInfo.cs
+D:\Project\ASP\Architecture-Net-Core\src\FFM.DataAccess\obj\Debug\netcoreapp3.1\FFM.DataAccess.dll
+D:\Project\ASP\Architecture-Net-Core\src\FFM.DataAccess\obj\Debug\netcoreapp3.1\FFM.DataAccess.pdb

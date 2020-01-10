@@ -1,0 +1,11 @@
+D:\Project\ASP\Architecture-Net-Core\src\FFM.EntityFramework\bin\Debug\netcoreapp3.1\FFM.EntityFramework.exe
+D:\Project\ASP\Architecture-Net-Core\src\FFM.EntityFramework\bin\Debug\netcoreapp3.1\FFM.EntityFramework.deps.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.EntityFramework\bin\Debug\netcoreapp3.1\FFM.EntityFramework.runtimeconfig.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.EntityFramework\bin\Debug\netcoreapp3.1\FFM.EntityFramework.runtimeconfig.dev.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.EntityFramework\bin\Debug\netcoreapp3.1\FFM.EntityFramework.dll
+D:\Project\ASP\Architecture-Net-Core\src\FFM.EntityFramework\bin\Debug\netcoreapp3.1\FFM.EntityFramework.pdb
+D:\Project\ASP\Architecture-Net-Core\src\FFM.EntityFramework\obj\Debug\netcoreapp3.1\FFM.EntityFramework.csprojAssemblyReference.cache
+D:\Project\ASP\Architecture-Net-Core\src\FFM.EntityFramework\obj\Debug\netcoreapp3.1\FFM.EntityFramework.AssemblyInfoInputs.cache
+D:\Project\ASP\Architecture-Net-Core\src\FFM.EntityFramework\obj\Debug\netcoreapp3.1\FFM.EntityFramework.AssemblyInfo.cs
+D:\Project\ASP\Architecture-Net-Core\src\FFM.EntityFramework\obj\Debug\netcoreapp3.1\FFM.EntityFramework.dll
+D:\Project\ASP\Architecture-Net-Core\src\FFM.EntityFramework\obj\Debug\netcoreapp3.1\FFM.EntityFramework.pdb

@@ -1,0 +1,11 @@
+D:\Project\ASP\Architecture-Net-Core\src\FFM.Infrastructure\bin\Debug\netcoreapp3.1\FFM.Infrastructure.exe
+D:\Project\ASP\Architecture-Net-Core\src\FFM.Infrastructure\bin\Debug\netcoreapp3.1\FFM.Infrastructure.deps.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.Infrastructure\bin\Debug\netcoreapp3.1\FFM.Infrastructure.runtimeconfig.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.Infrastructure\bin\Debug\netcoreapp3.1\FFM.Infrastructure.runtimeconfig.dev.json
+D:\Project\ASP\Architecture-Net-Core\src\FFM.Infrastructure\bin\Debug\netcoreapp3.1\FFM.Infrastructure.dll
+D:\Project\ASP\Architecture-Net-Core\src\FFM.Infrastructure\bin\Debug\netcoreapp3.1\FFM.Infrastructure.pdb
+D:\Project\ASP\Architecture-Net-Core\src\FFM.Infrastructure\obj\Debug\netcoreapp3.1\FFM.Infrastructure.csprojAssemblyReference.cache
+D:\Project\ASP\Architecture-Net-Core\src\FFM.Infrastructure\obj\Debug\netcoreapp3.1\FFM.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\ASP\Architecture-Net-Core\src\FFM.Infrastructure\obj\Debug\netcoreapp3.1\FFM.Infrastructure.AssemblyInfo.cs
+D:\Project\ASP\Architecture-Net-Core\src\FFM.Infrastructure\obj\Debug\netcoreapp3.1\FFM.Infrastructure.dll
+D:\Project\ASP\Architecture-Net-Core\src\FFM.Infrastructure\obj\Debug\netcoreapp3.1\FFM.Infrastructure.pdb
